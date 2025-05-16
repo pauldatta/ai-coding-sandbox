@@ -1,0 +1,6 @@
+[submodule "samples/adk-samples"]
+	path = samples/adk-samples
+	url = https://github.com/google/adk-samples.git
+[submodule "samples/cookbook"]
+	path = samples/cookbook
+	url = https://github.com/google-gemini/cookbook
