@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    background-color: #f0f0f0;
+}
+
+#scene-container {
+    width: 800px;
+    height: 600px;
+    border: 1px solid black;
+    background-color: #ffffff; /* Default background for the canvas area */
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+p {
+    margin: 5px 0;
+}
+
+#statusArea {
+    font-style: italic;
+    color: #333;
+}
+
+#transcribedText {
+    font-weight: bold;
+    color: #555;
+}
